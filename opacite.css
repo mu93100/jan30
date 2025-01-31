@@ -1,0 +1,18 @@
+
+
+div {
+    background-color: yellow;
+  }
+  
+  .leger {
+    /* On ne voit presque pas le texte */
+    opacity: 0.2;
+  }
+  .moyen {
+    /* On peut mieux discerner le texte */
+    opacity: 0.5;
+  }
+  .lourd {
+    /* Le texte est clairement visible */
+    opacity: 0.9;
+  }
